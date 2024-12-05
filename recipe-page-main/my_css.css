@@ -1,0 +1,55 @@
+af1 h3 {
+    color: rgb(128, 47, 148);
+}
+
+div.af1{
+    background-color: #eec8ff2c;
+    padding-top: 0.01rem;
+    padding-bottom: 0.01rem;
+}
+
+h2{
+    color: #8d401d;
+}
+
+td.first{
+    padding-left: 2rem;
+}
+
+td.second{
+    color: #8d401d;
+    padding-left: 150px;
+
+}
+
+table{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-spacing: 5px;
+    font: sans-serif;
+    width: 100%;
+}
+
+hr{
+    color: rgba(187, 187, 187, 0.26);
+}
+
+div.body_custom{
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin: 20rem;
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    padding: 2rem;
+    border-radius: 2rem;
+}
+
+body{
+    background-color:rgba(226, 221, 213, 0.76);
+}
+
+img {
+    width: 100%;
+    border-radius: 1rem;
+}
