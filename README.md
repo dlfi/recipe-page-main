@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://dlfi.github.io/recipe-page-main/index)
 
 
 ### Built with
@@ -36,7 +36,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Useful resources
 
-- [Rresource 1](https://www.w3schools.com/html/html5_syntax.asp) - This helped me with html and css basics. I really liked this website and will use it going forward.
+- [HTML Resource website](https://www.w3schools.com/html/html5_syntax.asp) - This helped me with html and css basics. I really liked this website and will use it going forward.
 
 ## Author
 
