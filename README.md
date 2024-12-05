@@ -36,7 +36,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Useful resources
 
-- [Rresource 1](https://www.example.com) - This helped me with html and css basics. I really liked this website and will use it going forward.
+- [Rresource 1](https://www.w3schools.com/html/html5_syntax.asp) - This helped me with html and css basics. I really liked this website and will use it going forward.
 
 ## Author
 
