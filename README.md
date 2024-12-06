@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://dlfi.github.io/recipe-page-main/index)
+- Live Site URL: [Live site](https://dlfi.github.io/recipe-page-main/index)
 
 
 ### Built with
